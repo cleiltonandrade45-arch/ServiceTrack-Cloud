@@ -1,0 +1,5 @@
+{
+  "name": "ServiceTrack Cloud",
+  "description": "A comprehensive frontend application for managing service requests and tracking status with Supabase authentication.",
+  "requestFramePermissions": []
+}
